@@ -1,4 +1,4 @@
-## Official code for *"Whole-Brain Modeling Reveals Subtype-Specific Regulation for Adolescent Major Depressive Disorder"*.
+## Code for *"Whole-Brain Modeling Reveals Subtype-Specific Regulation for Adolescent Major Depressive Disorder"*.
 
 ---
 
